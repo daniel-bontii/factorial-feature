@@ -1,0 +1,14 @@
+{
+  "name": "factorial-feature",
+  "version": "1.0.0",
+  "description": "using TDD to write tests for a factorial feature",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/index_test.js"
+  },
+  "author": "Daniel Bontii",
+  "license": "ISC"
+}

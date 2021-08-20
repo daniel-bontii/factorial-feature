@@ -1,0 +1,2 @@
+# Factorial Feature CodeCademy Project
+This project uses test-driven development to build a factorial method, the **assert module and mocha testing library** to drive development using tests that follow the phases: setup, exercise, and verification.
